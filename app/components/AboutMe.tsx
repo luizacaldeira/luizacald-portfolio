@@ -33,7 +33,7 @@ export default function AboutMe() {
             </div>
             <div className="max-w-2xl text-center md:text-left text-white/85">
                <p className="text-lg leading-relaxed mb-6">
-               I’m Luiza Caldeira, a front-end developer shaping my professional path
+               I’m Luiza Caldeira, a software developer shaping my professional path
                through academic training and real-world projects, always working where
                technology and design meet.
                </p>

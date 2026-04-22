@@ -16,8 +16,8 @@ const myProjects: Project[] = [
    {
       title: 'TaskBoard',
       description:
-         'Modern Kanban task management app featuring drag-and-drop, full CRUD operations, comments, dynamic themes, responsive design, local data persistence, and a smooth, usability-focused user experience.',
-      imageUrl: '/kanban.png',
+         'Kanban task management with drag-and-drop, full CRUD operations, comments, dynamic themes, responsive design, local data persistence, and a smooth, usability-focused user experience.',
+      imageUrl: '/taskboard_img.png',
       projectUrl: 'https://taskboardlc.vercel.app/',
       githubUrl: 'https://github.com/luizacaldeira/task-board',
       technologies: ['Angular 21', 'Tailwind CSS', 'Angular CDK'],
